@@ -2,6 +2,8 @@
 
 namespace Yandex\Translate;
 
+use GuzzleHttp\Client;
+
 /**
  * Translate
  * @author Nikita Gusakov <dev@nkt.me>
